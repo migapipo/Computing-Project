@@ -1,0 +1,9 @@
+/Users/xiaoyusun/Downloads/WindowGraphics/bin/Debug/WindowGraphics.exe
+/Users/xiaoyusun/Downloads/WindowGraphics/bin/Debug/WindowGraphics.pdb
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/WindowGraphics.csprojAssemblyReference.cache
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/UnicornSoftwares.Form1.resources
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/UnicornSoftwares.Properties.Resources.resources
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/WindowGraphics.csproj.GenerateResource.cache
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/WindowGraphics.csproj.CoreCompileInputs.cache
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/WindowGraphics.exe
+/Users/xiaoyusun/Downloads/WindowGraphics/obj/Debug/WindowGraphics.pdb
