@@ -62,7 +62,7 @@ namespace ConsoleApplication1
             // Not sure whu we're getting 0 size windows that are "visible". But we'll ignore them.
             if (bounds.Bottom == 0 && bounds.Top == 0 && bounds.Right == 0 && bounds.Left == 0) return true;
 
-            Console.WriteLine(processid + " (" + bounds.Left + "," + bounds.Top + "," + bounds.Left + "," + bounds.Right + ")");
+            Console.WriteLine(processid + " (" + bounds.Bottom+ "," + bounds.Top + "," + bounds.Left + "," + bounds.Right + ")");
 
             return true;
         }
