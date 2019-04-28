@@ -1,6 +1,7 @@
 <Device Contexts>: 
 
-A device context is a structure that defines a set of graphic objects and their associated attributes, as well as the graphic modes that affect output. 
+A device context is a structure that defines a set of graphic objects and their associated attributes, 
+as well as the graphic modes that affect output. 
 The graphic objects include: 
 a pen for line drawing 
 a brush for painting and filling
@@ -16,7 +17,17 @@ Device Context Reference
  
  
 <GetWindowDC>
-GetWindowDC is intended for special painting effects within a window's nonclient area. Painting in nonclient areas of any window is not recommended.
-The GetSystemMetrics function can be used to retrieve the dimensions of various parts of the nonclient area, such as the title bar, menu, and scroll bars.
+GetWindowDC is intended for special painting effects within a window's nonclient area. 
+Painting in nonclient areas of any window is not recommended.
+The GetSystemMetrics function can be used to retrieve the dimensions of various parts of the nonclient area, 
+such as the title bar, menu, and scroll bars.
 The GetDC function can be used to retrieve a device context for the entire screen.
-After painting is complete, the ReleaseDC function must be called to release the device context. Not releasing the window device context has serious effects on painting requested by applications.
+After painting is complete, the ReleaseDC function must be called to release the device context. 
+Not releasing the window device context has serious effects on painting requested by applications.
+
+
+
+<Object Sender,EventArgs e >
+EventArgs e is a parameter called e that contains the event data, see the EventArgs MSDN page for more information.
+
+Object Sender is a parameter called Sender that contains a reference to the control/object that raised the event.
