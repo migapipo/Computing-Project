@@ -3,13 +3,16 @@ Keyword --- "draw rectangle by window handle"
 https://www.google.com.au/search?rlz=1C1GCEA_enAU775AU846&biw=1302&bih=887&ei=oozFXLPzCou7rQGarKHYAQ&q=draw+rectangle+by+window+handle&oq=draw+rectangle+by+window+handle&gs_l=psy-ab.3...24967.25982..26126...0.0..0.148.985.0j7......0....1..gws-wiz.......0i71.jxssXx2dii8
 https://stackoverflow.com/questions/6415222/get-a-windows-bounds-by-its-handle
 
-
-
+API CHECK: 
+https://www.pinvoke.net
+https://www.pinvoke.net/search.aspx?search=FromHwnd&namespace=[All]
 
 
 
 FrameRect function:
 https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-framerect 
+
+
 
 
 
@@ -22,3 +25,17 @@ http://geekswithblogs.net/kobush/archive/2005/07/04/CustomBorderForms.aspx
 
 Control.Paint Event
 https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.control.paint?view=netframework-4.8
+
+
+
+
+System.Drawing.Graphics.FromHdc(System.IntPtr, System.IntPtr)
+Key words -- graphics.fromhdc c#
+
+https://www.csharpcodi.com/csharp-examples/System.Drawing.Graphics.FromHdc(System.IntPtr,%20System.IntPtr)/
+https://www.c-sharpcorner.com/uploadfile/mahesh/the-fromimage-fromhdc-and-fromhwnd-methods-in-gdi/
+
+
+
+PaintEventArgs Class:
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.painteventargs?view=netframework-4.8
