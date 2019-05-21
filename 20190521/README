@@ -1,0 +1,6 @@
+- Add a title bar 
+
+Problem: 
+- Flicker  
+- 'System.ArgumentNullException' 
+- 'System.OutOfMemoryException'
