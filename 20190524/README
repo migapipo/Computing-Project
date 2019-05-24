@@ -1,0 +1,8 @@
+- Added title bar on the top of desktop window (Orange color- the same as the Program Manager's border color)
+- Added feature of capturing mouse click on "active window" and show the window title on the center of the title bar.
+
+
+
+Future work:
+
+1. might be want to change the title bar color according to the window(same color as the border)
